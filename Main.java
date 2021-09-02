@@ -3,9 +3,9 @@ public class Main {
 
         int price = 200;
         int mille = price / 20;
-        int Bonus = mille;
+        int bonus = mille;
 
-        System.out.println(Bonus);
+        System.out.println(bonus);
 
     }
 }
